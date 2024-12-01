@@ -5,16 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swasthiga-0618" alt="swasthiga-0618" /></a> </p>
 
-- 🌱 I’m currently learning **AIML - DSA - aws**
-
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **DSA - AIML - Java - Python**
 
 - 📫 How to reach me **swasthiga6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/swasthiga6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swasthiga6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swasthiga sree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swasthiga sree" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/swasthiga-sree-70a915269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swasthiga-sree-70a915269" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swasthiga sree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swasthiga sree" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/swasthiga sree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="swasthiga sree" height="30" width="40" /></a>
 </p>
@@ -27,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swasthiga-0618&show_icons=true&locale=en" alt="swasthiga-0618" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swasthiga-0618&" alt="swasthiga-0618" /></p>
+
